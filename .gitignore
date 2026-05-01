@@ -1,0 +1,63 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+conda-env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Secrets / environment variables
+.env
+*.env
+
+# Data folders
+data/
+dataset/
+datasets/
+raw_data/
+
+# Training outputs
+outputs/
+output/
+results/
+runs/
+logs/
+checkpoints/
+weights/
+saved_models/
+
+# Model weight files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+
+# Large compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Temporary files
+tmp/
+temp/
